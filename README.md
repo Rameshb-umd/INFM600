@@ -1,20 +1,18 @@
-Howard County Population and Schools analysis
+INFM600 - Information Organization
 =======
+This Project contains datasets and anaylsis of elementary schools and correlation of the number of schools with population in a zipcode.
 
-Data assignment for INFM 600 - Information Environment
+Verison
+-------------
+Version 1.0 (October 2015)
 
 Documentation
 -------------
 
-* [Maryland_Census_Population.xls](https://help.github.com/articles/relative-links-in-readmes)
-* [Schools_Elementary_and_Population](docs/doc1.md)
-* [Process Document](docs/doc2.md)
-
-Misc
-----
-Text added using the github editor; more text added in ZEN mode; link to user [wallberg-umd](https://github.com/wallberg-umd)
-
-repository forked by [wallberg](https://github.com/wallberg); will try out a pull request
-Change made in testbranch
+* [Maryland_Census_Population.xls](https://github.com/Rameshb-umd/INFM600/blob/master/Maryland_Census_Population.xls)
+* [Schools_Elementary_and_Population](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls)
+* [Schools_Elementary.xls](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary.xls)
+* [ProcessDocument.pdf](https://github.com/Rameshb-umd/INFM600/blob/master/ProcessDocument.pdf)
+* [License](https://github.com/Rameshb-umd/INFM600/blob/master/LICENSE)
 
 
