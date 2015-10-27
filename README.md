@@ -23,7 +23,7 @@ This dataset retrieved from Maryland state data center provides population infor
 
 **Reference**
 ```
-Maryland State Data center.(2010). *Zip code Tablulation Area*[Data file and code book]. 
+Maryland State Data center.(2010).Zip code Tablulation Area[Data file and code book]. 
 Available from Maryland State Data center Web site: http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml
 Retrieved from http://planning.maryland.gov/msdc/census/cen2010/sf1/sumyprof/rawdata/sf1dp_zcta.xls
 ```
@@ -41,7 +41,8 @@ Schools_Elementary_and_Population.xls
 This dataset contains merged data from Maryland census population and Schools Elementary data.
 From the orginal dataset only data required to understand the correlation between population and count of school in a zipcode has been considered.
 
-This dataset is release as part of INFM600, Information Environments, Fall 2015, University of Maryland ischool, http://ischool.umd.edu/mim
+This dataset is released as part of INFM600, Information Environments, Fall 2015, University of Maryland ischool, http://ischool.umd.edu/mim
+
 **How to cite this dataset**
 ```
 Ramesh Balasekaran.(2015). _Howard County School and population analysis (Verison 1.0)_ [Data file and code book].Retrieved from https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls
