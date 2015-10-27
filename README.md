@@ -1,6 +1,4 @@
 INFM600 - Information Organization
-=======
-This Project contains datasets and anaylsis of elementary schools and correlation of the number of schools with population in a zipcode.
 
 Purpose
 ----------
@@ -21,9 +19,7 @@ Table of Contents
 * [Schools_Elementary_and_Population](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls)
 * [Schools_Elementary](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary.xls)
 * [Process Document](https://github.com/Rameshb-umd/INFM600/blob/master/ProcessDocument.pdf)
-        Process document, explaining how the data was merged to perform the data analysis.
 * [License](https://github.com/Rameshb-umd/INFM600/blob/master/LICENSE)
-        License under which the derived data is distrubuted
 
 Description
 ------------
