@@ -15,9 +15,9 @@ Version 1.0 (October 2015)
 Table of Contents
 -------------
 
-* [Maryland_Census_Population](https://github.com/Rameshb-umd/INFM600/blob/master/Maryland_Census_Population.xls)
-* [Schools_Elementary_and_Population](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls)
-* [Schools_Elementary](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary.xls)
+* [Maryland Census Population](https://github.com/Rameshb-umd/INFM600/blob/master/Maryland_Census_Population.xls)
+* [Schools Elementary and Population](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls)
+* [Schools Elementary](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary.xls)
 * [Process Document](https://github.com/Rameshb-umd/INFM600/blob/master/ProcessDocument.pdf)
 * [License](https://github.com/Rameshb-umd/INFM600/blob/master/LICENSE)
 
@@ -59,8 +59,9 @@ Ramesh Balasekaran.(2015). _Howard County School and population analysis (Veriso
 Retrieved from https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls
 ```
 Analysis
------------
-The Main aim of this project to
+----------- 
+![Analysis of processed data](https://raw.githubusercontent.com/Rameshb-umd/INFM600/master/Result.PNG "Result")
+
 
 Data Format
 -----------
