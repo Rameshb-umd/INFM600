@@ -19,37 +19,33 @@ Description
 ------------
 
 Maryland_Census_Population.xls 
-
-```
-Maryland State Data center.(2010). _Zip code Tablulation Area_[Data file and code book]. 
-Available from Maryland State Data center Web site: http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml
-Retrieved from http://planning.maryland.gov/msdc/census/cen2010/sf1/sumyprof/rawdata/sf1dp_zcta.xls
-
-```
 This dataset retrieved from Maryland state data center provides population information based on zipcode for the state of maryland.
 
+**Reference**
+```
+Maryland State Data center.(2010). *Zip code Tablulation Area*[Data file and code book]. 
+Available from Maryland State Data center Web site: http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml
+Retrieved from http://planning.maryland.gov/msdc/census/cen2010/sf1/sumyprof/rawdata/sf1dp_zcta.xls
+```
 Schools_Elementary.xls
-
-Maryland_Census_Population.xls 
-
-```
-Howard County Maryland. -Schools-Elementary- (2014)[Data file and code book]. 
-Retrieved from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
-
-```
 This dataset retrieved from Howard county Maryland data portal provides information on schools located in a zipcode.
-The information are tabulated by _Name, City, Zipcdoe and geolocation_.
+The information are tabulated by *Name, City, Zipcdoe and geolocation*.
+
+**Reference**
+```
+Howard County Maryland. Schools-Elementary (2014)[Data file and code book]. 
+Retrieved from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
+```
 
 Schools_Elementary_and_Population.xls
-```
-Ramesh Balasekaran.(2015). _Howard County School and population analysis (Verison 1.0)_ [Data file and code book].Retrieved from https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls
-
-```
 This dataset contains merged data from Maryland census population and Schools Elementary data.
 From the orginal dataset only data required to understand the correlation between population and count of school in a zipcode has been considered.
 
 This dataset is release as part of INFM600, Information Environments, Fall 2015, University of Maryland ischool, http://ischool.umd.edu/mim
-
+**How to cite this dataset**
+```
+Ramesh Balasekaran.(2015). _Howard County School and population analysis (Verison 1.0)_ [Data file and code book].Retrieved from https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls
+```
 Analysis
 -----------
 
