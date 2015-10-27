@@ -2,21 +2,26 @@ INFM600 - Information Organization
 =======
 This Project contains datasets and anaylsis of elementary schools and correlation of the number of schools with population in a zipcode.
 
+Purpose
+----------
+
+In Howard county, how does the number of elementary schools in a particluar area corelate with population of that area?.
+
+By Mapping the resultant dataset on a graph, Comparing the population and Number of Schools in a zipcode we can identify the areas
+in which the schools are less/higher in relation to the population.
+
 Verison
 -------------
 Version 1.0 (October 2015)
 
-Documentation
+Table of Contents
 -------------
 
 * [Maryland_Census_Population](https://github.com/Rameshb-umd/INFM600/blob/master/Maryland_Census_Population.xls)
-        File provides information on population for each zipcode in the state of Maryland.
 * [Schools_Elementary_and_Population](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls)
-        File Provides information on the correlation between population and number of schools in a zipcode.
 * [Schools_Elementary](https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary.xls)
-        File Provides list of Elementary schools in a zipcode for the state of Maryland
 * [Process Document](https://github.com/Rameshb-umd/INFM600/blob/master/ProcessDocument.pdf)
-        Process document explaining how the data was merged to perform the data analysis
+        Process document, explaining how the data was merged to perform the data analysis.
 * [License](https://github.com/Rameshb-umd/INFM600/blob/master/LICENSE)
         License under which the derived data is distrubuted
 
@@ -59,7 +64,7 @@ Retrieved from https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elemen
 ```
 Analysis
 -----------
-
+The Main aim of this project to
 
 Data Format
 -----------
