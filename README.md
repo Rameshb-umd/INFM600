@@ -53,7 +53,7 @@ This dataset provides the *Name, City, Zip code and geolocation* of each public 
 
 *Reference*
 ```
-Howard County Maryland. Schools-Elementary (2014)[Dataset]. 
+Howard County Maryland. Schools-Elementary (2014) [Dataset]. 
 Retrieved from https://data.howardcountymd.gov/geoserver/ows? 
 service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
 ```
@@ -64,7 +64,7 @@ This dataset provides the *Name, City, Zipcdoe and geolocation* of each public m
 
 *Reference*
 ```
-Howard County Maryland. Schools-Middle (2014)[Dataset]. 
+Howard County Maryland. Schools-Middle (2014) [Dataset]. 
 Retrieved from https://data.howardcountymd.gov/geoserver/ows? 
 service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
 ```
