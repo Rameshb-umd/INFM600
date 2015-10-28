@@ -82,7 +82,7 @@ This dataset is released as part of INFM600, Information Environments, Fall 2015
 
 **How to cite this dataset**
 ```
-Balasekaran, R.(2015). Howard County School and population analysis (Verison 1.0) [Dataset].
+Balasekaran, Ramesh.(2015). Howard County School and population analysis (Verison 1.0) [Dataset].
 Available at https://github.com/Rameshb-umd/INFM600
 ```
 
