@@ -43,7 +43,7 @@ This dataset retrieved from **Maryland State Data Center** contains population d
 
 *Reference*
 ```
-Maryland State Data center.(2010).Zip code Tabulation Area [Data file and code book]. 
+Maryland State Data center.(2010).Zip code Tabulation Area [Dataset]. 
 Available from Maryland State Data center Web site: http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml
 ```
 **Schools_Elementary.xls**
@@ -53,7 +53,7 @@ This dataset provides the *Name, City, Zip code and geolocation* of each public 
 
 *Reference*
 ```
-Howard County Maryland. Schools-Elementary (2014)[Data file and code book]. 
+Howard County Maryland. Schools-Elementary (2014)[Dataset]. 
 Retrieved from https://data.howardcountymd.gov/geoserver/ows? 
 service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
 ```
@@ -64,7 +64,7 @@ This dataset provides the *Name, City, Zipcdoe and geolocation* of each public m
 
 *Reference*
 ```
-Howard County Maryland. Schools-Middle (2014)[Data file and code book]. 
+Howard County Maryland. Schools-Middle (2014)[Dataset]. 
 Retrieved from https://data.howardcountymd.gov/geoserver/ows? 
 service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
 ```
@@ -79,16 +79,16 @@ This dataset is released as part of INFM600, Information Environments, Fall 2015
 
 **How to cite this dataset**
 ```
-Ramesh Balasekaran.(2015). Howard County School and population analysis (Verison 1.0) [Data file and code book].
+Ramesh Balasekaran.(2015). Howard County School and population analysis (Verison 1.0) [Dataset].
 Available from https://github.com/Rameshb-umd/INFM600
 ```
 
 Data Format
 -----------
     
-    Howard County School and population analysis.xls
-    | Zipcode       | Count of Schools | Population |
-    | ------------- |:----------------:| ----------:|
+Howard County School and population analysis.xls
+| Zipcode       | Count of Schools | Population |
+| ------------- |:----------------:| ----------:|
 
 License
 -----------
