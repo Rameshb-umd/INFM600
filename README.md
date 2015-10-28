@@ -1,4 +1,4 @@
-INFM600 - Information Organization
+INFM 600 - Information Organization
 
 Purpose
 ----------
