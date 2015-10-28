@@ -87,8 +87,9 @@ Data Format
 -----------
     
 Howard County School and population analysis.xls
-| Zipcode       | Count of Schools | Population |
-| ------------- |:----------------:| ----------:|
+
+| **Zipcode**   |**Count of Schools**|**Population**|
+| ------------- |:------------------:| ------------:|
 
 License
 -----------
