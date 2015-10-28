@@ -31,7 +31,7 @@ Table of Contents
 * [School Elementary](https://github.com/Rameshb-umd/INFM600/raw/master/2_Schools_Elementary.xls)
 * [Schools Middle](https://github.com/Rameshb-umd/INFM600/raw/master/3_Schools_Middle.xls)
 * [Howard County School and population analysis](https://github.com/Rameshb-umd/INFM600/raw/master/Howard%20County%20School%20and%20population%20analysis.xls)
-* [Process documentation](https://github.com/Rameshb-umd/INFM600/raw/master/Process%20documentation.pdf)
+* [Process documentation](https://github.com/Rameshb-umd/INFM600/raw/information_organization/Process%20documentation.pdf)
 * [License](https://github.com/Rameshb-umd/INFM600/raw/master/LICENSE)
 
 Description
@@ -82,8 +82,8 @@ This dataset is released as part of INFM600, Information Environments, Fall 2015
 
 **How to cite this dataset**
 ```
-Ramesh Balasekaran.(2015). Howard County School and population analysis (Verison 1.0) [Dataset].
-Available from https://github.com/Rameshb-umd/INFM600
+Balasekaran, R.(2015). Howard County School and population analysis (Verison 1.0) [Dataset].
+Available at https://github.com/Rameshb-umd/INFM600
 ```
 
 Data Format
