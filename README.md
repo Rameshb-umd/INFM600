@@ -20,7 +20,7 @@ Analysis
 ![Schools vs zipcode](https://github.com/Rameshb-umd/INFM600/raw/master/Result%20-%20Images/numberofschools_vs_Zipcode.PNG)
 ![Analysis of processed data](https://github.com/Rameshb-umd/INFM600/raw/master/Result%20-%20Images/Result.PNG)
 
-Verison
+Version
 -------------
 Version 1.0 (October 2015)
 
