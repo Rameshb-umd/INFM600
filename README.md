@@ -3,10 +3,18 @@ INFM600 - Information Organization
 Purpose
 ----------
 
-In Howard county, how does the number of elementary schools in a particluar area corelate with population of that area?.
+**In Howard county, how does the number of schools in a particular area correlate with the population of that area?**
 
-By Mapping the resultant dataset on a graph, Comparing the population and Number of Schools in a zipcode we can identify the areas
+In order understand the correlation, three datasets from Howard county are considered.
+    * Population by zip code
+    * List of Elementary schools in Howard county
+    * List of High schools in Howard county    
+By Mapping the merged dataset on a graph and comparing the population and number of schools in a zip code, we can identify the areas
 in which the schools are less/higher in relation to the population.
+
+Analysis
+------------- 
+![Analysis of processed data](https://raw.githubusercontent.com/Rameshb-umd/INFM600/master/Result.PNG "Result")
 
 Verison
 -------------
@@ -58,9 +66,6 @@ This dataset is released as part of INFM600, Information Environments, Fall 2015
 Ramesh Balasekaran.(2015). _Howard County School and population analysis (Verison 1.0)_ [Data file and code book].
 Retrieved from https://github.com/Rameshb-umd/INFM600/blob/master/Schools_Elementary_and_Population.xls
 ```
-Analysis
------------ 
-![Analysis of processed data](https://raw.githubusercontent.com/Rameshb-umd/INFM600/master/Result.PNG "Result")
 
 
 Data Format
