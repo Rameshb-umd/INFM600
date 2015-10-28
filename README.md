@@ -5,7 +5,7 @@ Purpose
 
 **In Howard county, how does the number of schools in a particular area correlate with the population of that area?**
 
-In order understand the correlation, three datasets from Howard county are considered.
+In order to understand the correlation, three datasets from Howard county are considered.
 
 * Population by zip code
 * List of Elementary schools in Howard county
@@ -28,8 +28,8 @@ Table of Contents
 -------------
 
 * [Maryland Census Population](https://github.com/Rameshb-umd/INFM600/raw/master/1_Maryland_Census_Population.xls)
-* [School_Elemntary](https://github.com/Rameshb-umd/INFM600/raw/master/2_Schools_Elementary.xls)
-* [Schools_Middle](https://github.com/Rameshb-umd/INFM600/raw/master/3_Schools_Middle.xls)
+* [School Elementary](https://github.com/Rameshb-umd/INFM600/raw/master/2_Schools_Elementary.xls)
+* [Schools Middle](https://github.com/Rameshb-umd/INFM600/raw/master/3_Schools_Middle.xls)
 * [Howard County School and population analysis](https://github.com/Rameshb-umd/INFM600/raw/master/Howard%20County%20School%20and%20population%20analysis.xls)
 * [Process documentation](https://github.com/Rameshb-umd/INFM600/raw/master/Process%20documentation.pdf)
 * [License](https://github.com/Rameshb-umd/INFM600/raw/master/LICENSE)
@@ -37,39 +37,39 @@ Table of Contents
 Description
 ------------
 
-Maryland_Census_Population.xls 
+**Maryland_Census_Population.xls** 
 
 This dataset retrieved from **Maryland State Data Center** contains population data for each zip code in Maryland.
 
-**Reference**
+*Reference*
 ```
 Maryland State Data center.(2010).Zip code Tabulation Area [Data file and code book]. 
 Available from Maryland State Data center Web site: http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml
 ```
-Schools_Elementary.xls
+**Schools_Elementary.xls**
     
-This dataset retrieved from **Howard County Maryland** data portal contains data of  the list of public elementary schools in Howard county.
+This dataset retrieved from **Howard County Maryland** data portal contains list of public elementary schools in Howard county.
 This dataset provides the *Name, City, Zip code and geolocation* of each public elementary schools.
 
-**Reference**
+*Reference*
 ```
 Howard County Maryland. Schools-Elementary (2014)[Data file and code book]. 
 Retrieved from https://data.howardcountymd.gov/geoserver/ows? 
 service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
 ```
-Schools_Middle.xls
+**Schools_Middle.xls**
     
-This dataset retrieved from **Howard County Maryland** data portal contains data of the list of public middle schools in Howard county.
+This dataset retrieved from **Howard County Maryland** data portal contains list of public middle schools in Howard county.
 This dataset provides the *Name, City, Zipcdoe and geolocation* of each public middle schools.
 
-**Reference**
+*Reference*
 ```
 Howard County Maryland. Schools-Middle (2014)[Data file and code book]. 
 Retrieved from https://data.howardcountymd.gov/geoserver/ows? 
 service=WFS&version=1.0.0&request=GetFeature&typeName=general:Schools_Elementary&outputFormat=csv
 ```
 
-Howard County School and population analysis.xls
+**Howard County School and population analysis.xls**
 
 This dataset contains merged data from Maryland census population and Schools Elementary data.
 From the original dataset only, data required to understand the correlation between population and number of school in an area
